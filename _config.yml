@@ -21,14 +21,14 @@ repository               : "marctrussler/marctrussler.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "PORESMT.jpg"
+  name             : "Marc Trussler"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Director of Data Sciences at Penn PORES"
+  location         : "Philadelphia"
+  employer         : "The University of Pennsylvania // NBCNews"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "trussler@sas.upenn.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
