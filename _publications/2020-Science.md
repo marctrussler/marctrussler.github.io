@@ -1,7 +1,7 @@
 ---
 title: "Partisan Pandemic: How Partisanship and Public Health Concerns Affect Individuals’ Social Distancing During COVID-19"
 collection: publications
-permalink: /publication/POQ2022
+permalink: /publication/Science2020
 excerpt: 'Analyzing a total of over 1 million responses collected daily in the spring and summer of 2020 reveals not only that partisanship is more important than public health concerns for explaining individuals’ social distancing during the COVID-19 pandemic, but also that the effect of partisanship has grown over time – especially among Republicans. '
 date: 2020-01-01
 venue: 'Science Advances'
