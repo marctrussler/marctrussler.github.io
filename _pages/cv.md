@@ -24,7 +24,7 @@ Work experience
 * Current: Senior Elections Analyst
   * NBC News Decition Desk
 
-* 2019-202: Postdoctoral Research Fellow
+* 2019-2020: Postdoctoral Research Fellow
   * Washington University in St. Louis
   
 
